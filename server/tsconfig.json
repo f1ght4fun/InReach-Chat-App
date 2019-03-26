@@ -1,0 +1,11 @@
+{
+    "files": [
+        "src/*.ts",
+        "src/models/*.ts",
+        "src/services/*.ts",
+    ],
+    "compilerOptions": {
+        "target": "es5",
+        "downlevelIteration": true
+    }
+}
